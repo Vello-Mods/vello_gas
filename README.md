@@ -1,6 +1,7 @@
 # vello_solargas
 
 
+![vello_gas_props](https://github.com/user-attachments/assets/7516b120-0353-42e5-bddd-fc6c0c407159)
 
 ![Screenshot (136)](https://github.com/user-attachments/assets/bcd26730-6714-4b92-91bc-824e6b66cf35)
 ![Screenshot (135)](https://github.com/user-attachments/assets/79bbf88b-8d67-4510-89bd-7bf6c36ae985)
