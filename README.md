@@ -1,4 +1,3 @@
-![](https://img.shields.io/github/downloads/Vello-Mods/vello_gas/total?logo=github)
 ![](https://img.shields.io/github/contributors/Vello-Mods/vello_gas?logo=github)
 ![](https://img.shields.io/github/v/release/Vello-Mods/vello_gas?logo=github)
 
