@@ -4,7 +4,7 @@ Enhance your FiveM roleplay experience with Vello Mods’ Nitrous Oxide gas bott
 Perfectly crafted for realism, Ideal for immersive roleplay scenarios.
 discord = https://discord.gg/SW5c84GZv9
 
-You can also download this from Tebex for better update notifications through Keymaster. 
+check out are tebex store. 
 link = https://www.vellomods.com/
 
 We recommend using rumaier.exe with our Whippets/Nitrous Oxide props, as it’s pre-configured and free check it out.
