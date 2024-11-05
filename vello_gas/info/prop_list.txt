@@ -1,0 +1,49 @@
+We recommend using rumaier.exe for Whippets/Nitrous Oxide with our props, as it is pre-configured and free big thank you to rumaier.exe.
+link = https://forum.cfx.re/t/free-esx-qb-whippets-nitrous-oxide/5279331
+
+
+
+
+
+
+
+
+
+--prop names 
+--gas bottles
+vello_gas_apple
+vello_gas_banana
+vello_gas_blueberry
+vello_gas_bubblegum
+vello_gas_chocolate
+vello_gas_chocolate_brownie
+vello_gas_cookie_cream
+vello_gas_cotton_candy
+vello_gas_mango
+vello_gas_mixed_berries
+vello_gas_oringe
+vello_gas_peppermint
+vello_gas_pineapple
+vello_gas_strawberry
+vello_gas_strawberry_cheesecake
+vello_gas_vanilla
+vello_gas_watermelon
+
+--gas box 
+vello_gas_box_apple
+vello_gas_box_banana
+vello_gas_box_blueberrys
+vello_gas_box_bubblegum
+vello_gas_box_chocolate
+vello_gas_box_chocolate_brownie
+vello_gas_box_cookie_cream
+vello_gas_box_cotton_candy
+vello_gas_box_mango
+vello_gas_box_mixed_berries
+vello_gas_box_oringe
+vello_gas_box_peppermint
+vello_gas_box_pineapple
+vello_gas_box_strawberry
+vello_gas_box_strawberry_cheesecake
+vello_gas_box_vanilla
+vello_gas_box_watermelon
