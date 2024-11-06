@@ -12,6 +12,8 @@ discord = https://discord.gg/SW5c84GZv9
 check out are tebex store. 
 link = https://www.vellomods.com/
 
+[ FREE SCRIPT ]
+
 We recommend using rumaier.exe with our Whippets/Nitrous Oxide props, as it’s pre-configured and free check it out.
 link = https://forum.cfx.re/t/free-esx-qb-whippets-nitrous-oxide/5279331
 
